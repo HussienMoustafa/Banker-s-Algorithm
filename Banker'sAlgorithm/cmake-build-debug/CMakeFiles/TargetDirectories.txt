@@ -1,0 +1,3 @@
+C:/Users/DELL/CLionProjects/Banker'sAlgorithm/cmake-build-debug/CMakeFiles/Banker_sAlgorithm.dir
+C:/Users/DELL/CLionProjects/Banker'sAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/Banker'sAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
